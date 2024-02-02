@@ -6057,7 +6057,7 @@ textarea.form-control {
     z-index: -1;
     background-position: center center;
     background-repeat: no-repeat;
-    /* background-image: url(../images/flower-small.svg); */
+    background-image: url(../images/flower-small.svg);
     background-size: contain;
     -khtml-opacity: 0.5;
     -moz-opacity: 0.5;
@@ -6221,7 +6221,7 @@ textarea.form-control {
     width: 32px;
     height: 32px;
     margin: 0 auto;
-    background: url(../images/loading.gif) no-repeat
+    /* background: url(../images/loading.gif) no-repeat */
 }
 
 .lb-nav {
