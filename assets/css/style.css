@@ -405,7 +405,7 @@ section {
     margin: 0 auto 0px;
     position: relative;
     padding-bottom: 35px;
-    font-family: 'Marmelad', sans-serif
+    font-family: 'Splash', cursive;
 }
 
 .section-title::after {
@@ -1498,7 +1498,7 @@ p.center {
 }
 
 .nav-section .nav-logo {
-	font-family: 'Marmelad', sans-serif;
+    font-family: "Great Vibes", cursive;
     float: left;
     padding: 5px 0;
     height: 65px;
@@ -1985,7 +1985,9 @@ p.center {
 
 .hero-wrapper h1.hero-title {
     padding-bottom: 3px;
-    margin-bottom: 40px
+    margin-bottom: 40px;
+    font-family: "Great Vibes", cursive;
+    margin-top: 35px;
 }
 
 .hero-wrapper h1.hero-title:after {
@@ -2721,7 +2723,8 @@ p.center {
 }
 
 #our-story-title .section-title {
-    margin-bottom: 0
+    margin-bottom: 0;
+    font-family: 'Splash', cursive;
 }
 
 .timeline {
@@ -6038,7 +6041,7 @@ textarea.form-control {
 }
 
 .footer-logo {
-    font-family: 'Marmelad', sans-serif;
+    font-family: "Great Vibes", cursive;
     font-size: 30pt;
     line-height: .65;
     padding: 26px 64px;

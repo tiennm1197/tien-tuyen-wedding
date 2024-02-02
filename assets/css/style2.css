@@ -6308,7 +6308,7 @@ static-hero-s4
 }
 .couple-section .middle-couple-pic .frame-img {
     position: absolute;
-    left: 50%;
+    left: 52%;
     top: 58%;
     width: 130%;
     height: 130%;
@@ -6351,9 +6351,9 @@ static-hero-s4
 }
 .couple-section .text-grid h3 {
   /* font-size: 30px; */
-  font-size: 4rem;
+  font-size: 3.2rem;
   /* margin: 0 0 0.2em; */
-  font-family: dancingscript_regular;
+  font-family: "Great Vibes", cursive;
   font-weight: 100;
   color: #ff143a;
   text-align: center;
@@ -6885,6 +6885,7 @@ static-hero-s4
   text-transform: math-auto;
   padding-bottom: 10px;
   margin-bottom: 10px;
+  font-family: system-ui;
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul {
   list-style: none;
