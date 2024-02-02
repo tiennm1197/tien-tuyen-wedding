@@ -7572,6 +7572,7 @@ textarea.form-control {
 .parent-info .parent-name{
 font-weight:600;
 text-transform:uppercase;
+color: #444;
 }
 .parent-title{
 	margin-right:3px;

@@ -6350,9 +6350,13 @@ static-hero-s4
   }
 }
 .couple-section .text-grid h3 {
-  font-size: 30px;
-  font-size: 2rem;
-  margin: 0 0 0.2em;
+  /* font-size: 30px; */
+  font-size: 4rem;
+  /* margin: 0 0 0.2em; */
+  font-family: dancingscript_regular;
+  font-weight: 100;
+  color: #ff143a;
+  text-align: center;
 }
 .couple-section .text-grid .couple-img {
   margin-bottom: 20px;
@@ -6888,8 +6892,11 @@ static-hero-s4
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul li {
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 19px;
   line-height: 30px;
+  font-family: "Playball", cursive;
+  font-weight: 100;
+  font-style: normal;
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul li:last-child {
   margin-bottom: 0;
