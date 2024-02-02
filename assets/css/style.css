@@ -1557,7 +1557,8 @@ p.center {
 .nav>li>a:hover,
 .navbar-nav>li>a.active {
     background-color: transparent;
-    color: #8eaeba
+    /* color: #8eaeba; */
+    color: #df3367 !important;
 }
 
 .navbar-nav {
