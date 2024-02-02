@@ -1505,6 +1505,23 @@ p.center {
     position: relative
 }
 
+.nav-section .nav-logo h1 {
+    font-size: 37px; 
+    color: #df3367;
+}
+
+@media (max-width: 576px) {
+    .nav-section .nav-logo {
+        justify-content: center;
+        float: none;
+    }
+
+    .nav-section .nav-logo h1 {
+        font-size: 30px; 
+        color: #df3367;
+    }
+}
+
 .nav-section .nav-logo img {
     max-height: 100%;
     width: auto;
@@ -6044,9 +6061,10 @@ textarea.form-control {
     font-family: "Great Vibes", cursive;
     font-size: 30pt;
     line-height: .65;
-    padding: 26px 64px;
+    padding: 26px 25px;
     position: relative;
-    display: inline-block
+    display: inline-block;
+    color: #fff;
 }
 
 .footer-logo::after,

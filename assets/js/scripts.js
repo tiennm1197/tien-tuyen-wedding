@@ -46,7 +46,8 @@ var Neela;
         },
         preloader: function() {
             var e = setInterval(function() {
-                /loaded|complete/.test(document.readyState) && (clearInterval(e), u("#preloader").fadeOut(1e3))
+                u("#preloader").fadeOut(1e3)
+                // /loaded|complete/.test(document.readyState) && (clearInterval(e), u("#preloader").fadeOut(1e3))
             }, 4)
         },
         navigation: function() {
