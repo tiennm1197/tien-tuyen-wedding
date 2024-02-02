@@ -6867,7 +6867,7 @@ static-hero-s4
   margin-bottom: 40px;
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text {
-  padding: 40px 10px;
+  padding: 20px 20px;
   text-align: center;
   background: #edf3f8;
 }
@@ -6884,9 +6884,10 @@ static-hero-s4
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul {
   list-style: none;
+  margin-top: 15px;
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul li {
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   font-size: 18px;
   line-height: 30px;
 }

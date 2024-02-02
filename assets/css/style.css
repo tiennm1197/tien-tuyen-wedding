@@ -2919,7 +2919,7 @@ p.center {
     right: -150px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    /* background-image: url(../images/flower-medium.svg); */
     background-repeat: no-repeat
 }
 
@@ -3035,7 +3035,7 @@ p.center {
     right: -150px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    /* background-image: url(../images/flower-medium.svg); */
     background-repeat: no-repeat;
 }
 .gallery-container::after {
@@ -3047,7 +3047,7 @@ p.center {
     left: -165px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    /* background-image: url(../images/flower-medium.svg); */
     background-repeat: no-repeat;
     -webkit-transform: scaleY(-1) rotate(-90deg);
     -moz-transform: scaleY(-1) rotate(-90deg);
@@ -3335,7 +3335,7 @@ p.center {
     margin-top: -212px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    /* background-image: url(../images/flower-medium.svg); */
     background-repeat: no-repeat;
     background-size: contain;
     -webkit-transform: rotate(45deg);
@@ -3398,7 +3398,7 @@ p.center {
     z-index: 0;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/flower-small.svg);
+    /* background-image: url(../images/flower-small.svg); */
     background-size: contain;
     -khtml-opacity: 0.2;
     -moz-opacity: 0.2;
@@ -3426,7 +3426,7 @@ p.center {
     z-index: 0;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/flower-small.svg);
+    /* background-image: url(../images/flower-small.svg); */
     background-size: contain;
     -khtml-opacity: 0.2;
     -moz-opacity: 0.2;
@@ -3932,7 +3932,7 @@ p.center {
     top: 50%;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-large-light.svg);
+    /* background-image: url(../images/flower-large-light.svg); */
     background-repeat: no-repeat;
     -khtml-opacity: 0.2;
     -moz-opacity: 0.2;
@@ -4980,7 +4980,7 @@ section.side-flowers {
     right: -65px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    /* background-image: url(../images/flower-medium.svg); */
     background-repeat: no-repeat;
     background-size: contain;
     -webkit-transform: rotate(-6deg) scaleX(-1);
@@ -6057,7 +6057,7 @@ textarea.form-control {
     z-index: -1;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: url(../images/flower-small.svg);
+    /* background-image: url(../images/flower-small.svg); */
     background-size: contain;
     -khtml-opacity: 0.5;
     -moz-opacity: 0.5;
