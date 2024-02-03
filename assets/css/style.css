@@ -2744,7 +2744,7 @@ p.center {
     text-shadow: 3px 3px 20px #ff99cc,
     -2px 1px 30px #ff99cc;
     margin-bottom: 0;
-    font-family: 'Splash', cursive;
+    font-family: 'Splash', cursive !important;
 }
 
 .timeline {
@@ -7231,6 +7231,11 @@ textarea.form-control {
 
     h1.section-title {
         font-size: 28pt
+    }
+
+    #our-story-title .section-title {
+        top: 30px;
+        font-size: 21px;
     }
 
     h1.page-title {
