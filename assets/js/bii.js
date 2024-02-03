@@ -44,7 +44,7 @@ window.onload = (event) =>{
 	
 	if(document.getElementsByTagName('body')[0].clientHeight > window.innerHeight) {
 		setTimeout(() => {
-			document.querySelector('.mouse-scroll-on-mobile').style.visibility ="visible";
+			document.querySelector('.mouse-scroll-on-mobile').style.visibility ="hidden";
 		}, 800);
 	}
 };
@@ -100,10 +100,13 @@ if(biicore.bgMusic){
 		}
 		audioPlayer.volume = 0.3;
 		audioPlayer.autoplay = true;
+
 		audioPlayer.setAttribute("controls", "controls");
+		audioPlayer.setAttribute("loop", "");
+		audioPlayer.setAttribute("autoplay", "");
 		document.body.appendChild(audioPlayer);
+		audioPlayer.play();
 	}, 1000);
-	
 	// var myInterval = setInterval(function(){
 	// 	if(document.querySelector(".bii-player")){
 	// 		setTimeout(function(){
