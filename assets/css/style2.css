@@ -356,7 +356,7 @@ img {
 @media (max-width: 575px) {
   .wpo-section-title h2,
 .wpo-section-title-s2 h2 {
-    font-size: 22px;
+    font-size: 40px;
   }
 }
 .wpo-section-title p,
@@ -6901,8 +6901,9 @@ static-hero-s4
   margin-bottom: 5px;
   font-size: 19px;
   line-height: 30px;
-  font-family: "Playball", cursive;
-  font-weight: 100;
+  /* font-family: "Playball", cursive; */
+  font-family: "Quicksand", sans-serif;
+  font-weight: 300;
   font-style: normal;
 }
 .wpo-event-section .wpo-event-wrap .wpo-event-item .wpo-event-text ul li:last-child {
